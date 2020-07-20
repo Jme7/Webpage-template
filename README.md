@@ -13,3 +13,6 @@ Just open index.html and that is where the HTML goes. If you do not know html, t
 After that, you may want your webpage to hold multple pages, so, to do that, I will present you with an example:
 
 I have a webpage at [Jme7.github.io](Jme7.github.io), so I want another page at [Jme7.github.io/The Code Spot](Jme7.github.io/The%20Code%20Spot). To do this, I need to make a file in github called "The Code Spot/index.html". That contains the code for [Jme7.github.io/The Code Spot](Jme7.github.io/The%20Code%20Spot). There is now a folder in my repository called "The Code Spot" and a file in that called "index.html". So now I want more pages, like [Jme7.github.io/The Code Spot/Learn.html](Jme7.github.io/The%20Code%20Spot/Learn.html). To do that, I go into the "The Code Spot" folder, and add a new file called "Learn.html", and put my code there. Got it? You better ;) :wink:
+
+
+P.S. I have two folders called "javascript" and "CSS", so, if you know how to, you can put your javascript and css in there, and just import it in your html files.
