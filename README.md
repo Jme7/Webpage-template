@@ -6,7 +6,7 @@ First, you need to set this up with GitHub Pages, and it is pretty easy.
 #### If you already have a user webpage:
 Then you can go to settings, and scroll down until you find an option for "Source", you just need to set that to "Master"
 #### If you don't yet have a user webpage:
-Then just rename this repository to "YOUR_USERNAME.github.io" (Note: do not have that exactly, just insert your username where it says, for example, Jme7.github.io)
+Then just rename this repository to "YOUR_USERNAME.github.io" (Note: do not have that exactly, just insert your username where it says, for example, Jme7.github.io)<!-- Why do I have this note here? Well some people think that i mean to directly put in "YOUR_USERNAME" instead of logicly replacing YOUR_USERNAME with your username. I am sorry if you are one of those people :( --> 
 #### Back to the rest of the instructions
 Now to give your webpage some content.
 Just open index.html and that is where the HTML goes. If you do not know html, then look  up some couses on it (I suggest [Khan academy's tutorial](khanacademy.org/computing/computer-programming/html-css)), then return here.
